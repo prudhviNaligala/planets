@@ -1,0 +1,38 @@
+.planets-item-container {
+  height: 100vh;
+  width: 50%;
+  align-items: center;
+}
+.heading {
+  color: #05acff;
+  align-items: center;
+  text-align: center;
+}
+.planets-pic {
+  height: 300px;
+  width: 400px;
+  margin-left: 200px;
+}
+.planets {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+}
+.slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.planets-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 28px;
+}
+.about-planets {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
